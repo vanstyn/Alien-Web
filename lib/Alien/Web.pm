@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 # ABSTRACT: Base class/namespace static web asset distributions on CPAN
-our $VERSION = 1.0;
+our $VERSION = 1.1;
 
 use File::ShareDir qw(dist_dir);
 require Path::Class;
